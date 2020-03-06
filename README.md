@@ -1,4 +1,4 @@
-# BertelsmannAIScholarship
+# AIScholarship
 
 My Solutions for the [Bertelsmann Technology Scholarship](https://sites.google.com/udacity.com/bertelsmann-challenge/home?authuser=0) - [AI Track](https://sites.google.com/udacity.com/bertelsmann-challenge/ai-track?authuser=0).
 
